@@ -92,3 +92,6 @@ mlb_team_logos = [
     {"team": "Blue Jays", "logo_url": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/scoreboard/tor.png&h=500&w=500"},
     {"team": "Nationals", "logo_url": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/scoreboard/wsh.png&h=500&w=500"}
 ]
+
+
+# hey i want to use this repo need guidence and database clearity can ywe connect , please.
